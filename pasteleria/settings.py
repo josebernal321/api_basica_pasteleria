@@ -86,10 +86,10 @@ WSGI_APPLICATION = 'pasteleria.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'pasteleriabd',
-        'USER': 'postgres',
-        'PASSWORD': '586vm5jm',
-        'HOST': 'localhost',
+        'NAME': 'daehimn4sng26r',
+        'USER': 'zosuqqcybllpfb',
+        'PASSWORD': '9003b2e81331291ff2994470c93bd6ccf02f079f2e3b993498eb4b0f94b14fe8',
+        'HOST': 'ec2-52-6-77-239.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
