@@ -1,1 +1,1 @@
-web: gunicorn pasteleria.wsgi
+web: gunicorn pasteleria:wsgi
